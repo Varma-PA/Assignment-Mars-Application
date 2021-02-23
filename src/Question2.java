@@ -6,6 +6,10 @@ public class Question2 {
     public static String getNameOfNumber(int number) {
 
         switch (number) {
+
+            case 0:
+                return "Zero";
+
             case 1:
                 return "One";
 
